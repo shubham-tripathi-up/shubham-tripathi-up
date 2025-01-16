@@ -12,15 +12,6 @@
 
 ---
 
-<h3 align="left">Highlights</h3>
-
-- 🏆 Spearheaded the automation of **support systems** and **performance dashboards**, increasing efficiency by 70% and boosting profitability by 16%.
-- ⚡ Designed systems to **monitor employee performance** and **optimize HR processes**, achieving a 36% improvement in timely request closures.
-- 📈 Enhanced operational efficiency by 52% and reduced costs by 48% by automating **Zoom operations**.
-- 🔐 Developed and enforced **data security policies**, implementing **role-based access controls** and cutting DBMS costs by 100%.
-
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubham-tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="shubham-tripathi" height="30" width="40" /></a>
