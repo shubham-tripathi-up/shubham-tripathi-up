@@ -1,38 +1,38 @@
-<h1 align="center">Hi 👋, I'm Shubham Tripathi</h1>
-<h3 align="center">A versatile Program Manager and Data Scientist from India</h3>
+# Hi, I'm Shubham Tripathi 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-tripathi-up&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-tripathi-up" /> </p>
+**Full-stack and AI engineer.** I build web products and production AI systems: React front ends, FastAPI and Django back ends, and LLM applications with LangChain and LangGraph.
 
-- 🌟 **Program Manager** with over 5.5 years of experience, specializing in **Analytics**, **Automation**, and **Data Management**.
-- 🔍 Currently leading **program analytics and automation** at **Masai School**, driving operational efficiency and enhancing stakeholder engagement.
-- 💻 Passionate about leveraging **Python, SQL, and advanced automation tools** to optimize processes and deliver impactful results.
-- 🎓 Currently pursuing **Data Science & Application** at **IIT Madras** and **Minor in AI** at **IIT Ropar**.
-- 📊 Skilled in **Power BI**, **Tableau**, **Docker**, and **Automation Anywhere**, with expertise in project management, risk assessment, and decision-making analytics.
-- 📫 Reach me at **shubhamtripathi63@gmail.com**
+I write about AI research and the engineering behind it at **[shubham-tripathi.com](https://shubham-tripathi.com)**.
 
----
+### 📝 Latest article
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubham-tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="shubham-tripathi" height="30" width="40" /></a>
-<a href="mailto:shubhamtripathi63@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" alt="shubhamtripathi63@gmail.com" height="30" width="40" /></a>
-</p>
+**[An AI edited another AI's weights, and its math score jumped from 7.9% to 48.1%](https://shubham-tripathi.com/blog/weight-space-programming-gpt-6-astra-qwen/)**
+How MIT CSAIL's weight-space programming study worked, and what the result does and doesn't show.
 
----
+### 🛠️ What I work with
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a>
-  <a href="https://www.tableau.com/" target="_blank"> <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" alt="tableau" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/apachekafka.svg" alt="kafka" width="40" height="40"/> </a>
-</p>
+**AI and LLMs**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
 
----
+**Back end**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-tripathi-up&show_icons=true&locale=en&layout=compact" alt="shubham-tripathi-up" /></p>
+**Front end**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-tripathi-up&show_icons=true&locale=en" alt="shubham-tripathi-up" /></p>
+### 📫 Get in touch
+
+[![Website](https://img.shields.io/badge/shubham--tripathi.com-2563EB?style=for-the-badge)](https://shubham-tripathi.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-tripathi-up/)
+[![Email](https://img.shields.io/badge/contact@shubham--tripathi.com-EA4335?style=for-the-badge)](mailto:contact@shubham-tripathi.com)
