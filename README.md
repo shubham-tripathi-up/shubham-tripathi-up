@@ -1,15 +1,19 @@
 # Hi, I'm Shubham Tripathi 👋
 
-**Full-stack and AI engineer.** I build web products and production AI systems: React front ends, FastAPI and Django back ends, and LLM applications with LangChain and LangGraph.
+**Technical project manager at [GALE](https://gale.agency)**, leading delivery across global teams, with a hands-on interest in AI and LLM projects.
 
-I write about AI research and the engineering behind it at **[shubham-tripathi.com](https://shubham-tripathi.com)**.
+I studied Ancient Indian History, Culture and Archaeology at Banaras Hindu University, and I'm just as curious about technology. At **[shubham-tripathi.com](https://shubham-tripathi.com)** I share my own thoughts on both. I'm not an expert, just someone who likes to learn by building and writing things down. Views are my own.
+
+### 🔭 Side projects
+
+**[Prism](https://github.com/shubham-tripathi-up/prism-llm-observability)**: lightweight LLM observability. Trace each step of an AI app, score its answers and catch quality drops. Built in my own time to learn how tracing and evaluation work.
 
 ### 📝 Latest article
 
 **[An AI edited another AI's weights, and its math score jumped from 7.9% to 48.1%](https://shubham-tripathi.com/blog/weight-space-programming-gpt-6-astra-qwen/)**
 How MIT CSAIL's weight-space programming study worked, and what the result does and doesn't show.
 
-### 🛠️ What I work with
+### 🛠️ Tools I'm hands-on with
 
 **AI and LLMs**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -31,7 +35,7 @@ How MIT CSAIL's weight-space programming study worked, and what the result does 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 📫 Get in touch
+### 📫 Find me
 
 [![Website](https://img.shields.io/badge/shubham--tripathi.com-2563EB?style=for-the-badge)](https://shubham-tripathi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-tripathi-up/)
